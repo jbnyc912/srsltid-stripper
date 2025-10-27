@@ -2,7 +2,7 @@
 
 A Chrome extension that removes `?srsltid=` tracking parameters from Google Search results.
 
-![SRSLTID Stripper Extension](screenshot.png)
+![SRSLTID Stripper Extension](screenshot.jpeg)
 
 ## What it does
 
