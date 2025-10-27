@@ -14,7 +14,6 @@ When you search on Google, the search results often include tracking parameters 
 - ✅ Works when copying links or clicking through to websites
 - ✅ Simple toggle to enable/disable the stripping functionality
 - ✅ Supports 20+ Google domains (google.com, google.co.uk, google.ca, etc.)
-- ✅ Lightweight and fast
 
 ## Installation
 
@@ -72,14 +71,6 @@ This extension:
 - ✅ Does NOT send any information to external servers
 - ✅ Only modifies URLs locally in your browser
 - ✅ Source code is open and auditable
-
-## Contributing
-
-Issues and pull requests are welcome! Feel free to suggest improvements or report bugs.
-
-## License
-
-MIT License - feel free to use and modify as needed.
 
 ## Credits
 
